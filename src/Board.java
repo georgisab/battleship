@@ -10,7 +10,7 @@ public class Board {
 			}
 		}
 	}
-	// Paint matrix 
+	// Draw matrix 
 	public void writeMatrix() {
 		for (int row = 0; row < board.length; row++) {
 			for (int col = 0; col < board[0].length; col++) {
